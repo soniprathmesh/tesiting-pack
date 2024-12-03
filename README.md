@@ -7,4 +7,4 @@ A Python package to send email notifications using a decorator.
 Install the package from PyPI:
 
 ```bash
-pip install testing-pack
+pip install prathmesh-package
